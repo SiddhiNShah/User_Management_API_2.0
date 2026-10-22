@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic[email]
+pydantic-settings
+passlib[argon2]
+python-jose[cryptography]
+python-multipart
